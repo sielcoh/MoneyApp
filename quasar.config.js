@@ -52,7 +52,7 @@ module.exports = configure(function (/* ctx */) {
       },
 
       vueRouterMode: 'hash',
-      publicPath : 'github.io-MoneyApp',
+      publicPath : 'MoneyApp',
       // available values: 'hash', 'history'
       // vueRouterBase,
       // vueDevtools,
